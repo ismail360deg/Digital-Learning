@@ -17,3 +17,14 @@
 .carousel-caption {
     z-index: 1;
 }
+
+.social-icon .icon i {
+    font-size: 25px;
+    color: #fff;
+    padding-left: 10px;
+    transition: .4s;
+}
+
+.social-icon .icon i:hover {
+    color: tomato;
+}
