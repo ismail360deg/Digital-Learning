@@ -40,3 +40,7 @@ p {
 .p-tag {
     color: #f4f4f4;
 }
+
+.left-side {
+    margin-left: 30px;
+}
